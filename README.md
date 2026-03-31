@@ -46,3 +46,4 @@ plot(w/pi,abs(h),'blue');
 <img width="698" height="635" alt="image" src="https://github.com/user-attachments/assets/97852cae-bbf6-4882-ad2d-d820d5ccff1d" />
 
 ## RESULT:
+<img width="1567" height="727" alt="image" src="https://github.com/user-attachments/assets/a602a1c3-a9a2-4a78-9351-c91aaa55e522" />
